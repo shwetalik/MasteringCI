@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="JunitTestCase_Factorial" project="JUnitTestCase" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="JunitTestCase_Factorial" time="0.001">
+    <testcase name="testForZeroValue" classname="JunitTestCase_Factorial" time="0.001"/>
+    <testcase name="testForNegativeValue" classname="JunitTestCase_Factorial" time="0.0"/>
+  </testsuite>
+</testrun>

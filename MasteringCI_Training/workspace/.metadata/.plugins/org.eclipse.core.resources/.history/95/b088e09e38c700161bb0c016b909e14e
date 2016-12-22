@@ -1,0 +1,26 @@
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class JunitTestCase_Factorial {
+	
+	/*
+	 * Test Cases for Factorial
+	 * 1. If the number is 0, system should give output 1
+	 * 1. If the number is 1, system should give output 1
+	 * 1. If the number is negative, system should give output Illegal
+	 */
+	
+	Maths m;
+	@Before
+	public void setUp() throws Exception {
+		m = new Maths();
+	}
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
